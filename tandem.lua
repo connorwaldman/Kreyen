@@ -1,3 +1,4 @@
+-- Live Coding Dual Sequencer
 -- Input 1: clock 1
 -- Input 2: clock 2
 -- Output 1: sequence 1
